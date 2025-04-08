@@ -1,1 +1,5 @@
-# cp2s2-front
+# cp2
+alunos:
+Henrique Maciel
+Igor Nociti
+Pedro Paulo
